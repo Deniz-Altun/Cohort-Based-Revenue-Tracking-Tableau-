@@ -16,4 +16,6 @@ Used Tableau to:
 - Data Visualization
   
 ## 🖼️ Sample Dashboard
-![Dashboard](Dashboard.png)
+
+![Dashboard 3](https://github.com/user-attachments/assets/1b34fbed-f51d-41e2-bae4-faa737f6c7c0)
+
