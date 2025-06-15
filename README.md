@@ -14,3 +14,6 @@ Used Tableau to:
 - Cohort Modeling
 - Revenue Analysis
 - Data Visualization
+  
+## 🖼️ Sample Dashboard
+![Dashboard](Dashboard.png)
