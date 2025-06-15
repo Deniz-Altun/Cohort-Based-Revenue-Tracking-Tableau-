@@ -1,5 +1,16 @@
 # Cohort-Based-Revenue-Tracking-Tableau-
 
-Goal: Built a cohort dashboard to track CLTV and MRR over time.
-Method and Tools: Identified patterns in retention and revenue trends across cohorts.
-Skills: Tableau, cohort modeling, revenue analysis, data visualization.
+## 🧭 Goal
+Built a cohort dashboard to track Customer Lifetime Value (CLTV) and Monthly Recurring Revenue (MRR) over time.
+
+## ⚙️ Method and Tools
+Used Tableau to:
+- Build a visual dashboard from cohort-based payment data
+- Identify revenue patterns and user retention across monthly cohorts
+- Track New MRR and Total Revenue with percentage growth
+
+## 📊 Skills
+- Tableau
+- Cohort Modeling
+- Revenue Analysis
+- Data Visualization
